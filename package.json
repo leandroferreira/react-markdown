@@ -34,6 +34,7 @@
     "staticpath": "demo/dist"
   },
   "dependencies": {
+    "@types/unist": "^1.0.0",
     "prop-types": "^15.6.0",
     "remark-parse": "^4.0.0",
     "unified": "^6.1.5",
